@@ -2,7 +2,7 @@
 
 This repository contains the documentation, evidence, and practical lab solutions developed throughout the cybersecurity course.
 
-**Author:** Shirleny Yadyth Rodriguez Araya
+**Author:** Yadith Rodriguez 
 
 ---
 
@@ -60,7 +60,7 @@ This repository contains the documentation, evidence, and practical lab solution
 ## Class 4 - OSINT / SOCMINT (Defensive)
 
 ### 🔍 Summary & Evidence
-- **DNS & DMARC Record Analysis:** Used the `nuclei` tool to detect DMARC records, DKIM keys, and mail service identifiers (`ucenfotec.ac.cr`).
+- **DNS & DMARC Record Analysis:** Used the `nuclei` tool to detect DMARC records, DKIM keys, and mail service identifiers (`OBJECT`).
 - **Traffic Analysis with Wireshark & Nmap:** Captured UDP/NTP packets and performed TCP port scans (22, 80, 443) on `localhost`.
 
 ### 🛡️ Findings and Mitigation
