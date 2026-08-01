@@ -14,7 +14,7 @@ This repository contains the documentation, evidence, and practical lab solution
 
 ---
 
-## Class 1 - Introduction + Lab
+## Introduction + Lab
 
 ### 🔍 Summary & Evidence
 - **Public Information Gathering:** Performed public OSINT queries targeting the domain `telecable.com` and associated infrastructure (IP records, ASN 12946 TELECABLE Spain, exposed web services such as Apache/2.2.15, Ebroker Enterprise Server v3.0, among others).
@@ -27,7 +27,7 @@ This repository contains the documentation, evidence, and practical lab solution
 
 ---
 
-## Class 2 - Vectors + Risk (Defensive Mindset)
+##  Vectors + Risk (Defensive Mindset)
 
 ### 🔍 Summary & Evidence
 - **Kali Linux & Maltego Graph Setup:** Created interactive graphs in Maltego for infrastructure discovery, mapping domain relationships (`telecable.com`, `cafebritt.com`), IP addresses, CIDR blocks, and harvesting email addresses.
@@ -42,7 +42,7 @@ This repository contains the documentation, evidence, and practical lab solution
 
 ---
 
-## Class 3 - Footprinting (Attack Surface)
+##   Footprinting (Attack Surface)
 
 ### 🔍 Summary & Evidence
 - **Profile & Nickname Searching:** Executed automated OSINT scripts (`findme`, `userSearch`, Sherlock/Maigret) analyzing the username `yadroar` across multiple web platforms (GitHub, Docker Hub, Instagram, TryHackMe, VirusTotal, among others).
@@ -57,7 +57,7 @@ This repository contains the documentation, evidence, and practical lab solution
 
 ---
 
-## Class 4 - OSINT / SOCMINT (Defensive)
+##  OSINT / SOCMINT (Defensive)
 
 ### 🔍 Summary & Evidence
 - **DNS & DMARC Record Analysis:** Used the `nuclei` tool to detect DMARC records, DKIM keys, and mail service identifiers (`OBJECT`).
