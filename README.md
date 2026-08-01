@@ -7,10 +7,10 @@ This repository contains the documentation, evidence, and practical lab solution
 ---
 
 ## 📌 Table of Contents
-1. [Class 1 - Introduction + Lab](#class-1---introduction--lab)
-2. [Class 2 - Vectors + Risk (Defensive Mindset)](#class-2---vectors--risk-defensive-mindset)
-3. [Class 3 - Footprinting (Attack Surface)](#class-3---footprinting-attack-surface)
-4. [Class 4 - OSINT / SOCMINT (Defensive)](#class-4---osint--socmint-defensive)
+1.  Introduction + Lab](#class-1---introduction--lab)
+2.  Vectors + Risk (Defensive Mindset)](#class-2---vectors--risk-defensive-mindset)
+3.  Footprinting (Attack Surface)](#class-3---footprinting-attack-surface)
+4.  OSINT / SOCMINT (Defensive)](#class-4---osint--socmint-defensive)
 
 ---
 
