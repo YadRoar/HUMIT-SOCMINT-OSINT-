@@ -25,7 +25,10 @@ This repository contains the documentation, evidence, and practical lab solution
 - [x] Confirm core tools are installed and updated.
 - [x] **Course Objective:** Establish solid foundations in offensive and defensive cybersecurity for vulnerability analysis and system hardening.
 
----
+
+<img width="1432" height="796" alt="image" src="https://github.com/user-attachments/assets/7b93f966-64de-4697-bf86-23a0659184e0" />
+
+--
 
 ##  Vectors + Risk (Defensive Mindset)
 
@@ -42,6 +45,11 @@ This repository contains the documentation, evidence, and practical lab solution
 
 ---
 
+<img width="891" height="812" alt="image" src="https://github.com/user-attachments/assets/4d9bce34-5ab4-4e4a-806e-51f3b0939145" />
+
+---
+
+
 ##   Footprinting (Attack Surface)
 
 ### 🔍 Summary & Evidence
@@ -57,6 +65,12 @@ This repository contains the documentation, evidence, and practical lab solution
 
 ---
 
+
+<img width="871" height="730" alt="image" src="https://github.com/user-attachments/assets/b5865aac-94d9-49bc-b69d-c5a9f9f32f68" />
+
+
+---
+
 ##  OSINT / SOCMINT (Defensive)
 
 ### 🔍 Summary & Evidence
@@ -67,6 +81,11 @@ This repository contains the documentation, evidence, and practical lab solution
 - **Finding:** Exposure of DNS records lacking strict DMARC policies or management ports exposed locally.
 - **Possible Abuse:** Email spoofing or brute-force attempts on the SSH service.
 - **Mitigation:** Enforce strict DMARC policies (`p=reject`), implement proper SPF/DKIM records, and restrict access to management ports using firewall rules.
+
+---
+
+<img width="888" height="767" alt="image" src="https://github.com/user-attachments/assets/60f53dc6-c4b3-4355-ae07-b7bfa419279f" />
+
 
 ---
 
